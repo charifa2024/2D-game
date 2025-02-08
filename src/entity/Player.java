@@ -5,7 +5,6 @@ import main.KeyHandler;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
-import java.awt.event.KeyListener;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 

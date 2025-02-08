@@ -5,6 +5,7 @@ I’m following a YouTube tutorial and pushing progress regularly.
 
 ## Features (so far)
 - Basic game loop
+- importing the player images and adding some animations so it's looking like it moves
 
 
 ## How to Run
@@ -14,8 +15,7 @@ I’m following a YouTube tutorial and pushing progress regularly.
 3. Run the main class.
 
 ## To-Do List
-- Add animations
-- Improve physics
+-complete adding features and stuff and improving the quality
 
 ## Credits 🙌
 This project is based on a tutorial by [RyiSnow](https://youtu.be/om59cwR7psI?si=qPg3ha0kC9tqO7U9).Huge thanks for the great learning resource!
